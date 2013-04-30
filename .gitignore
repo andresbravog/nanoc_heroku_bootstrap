@@ -1,0 +1,8 @@
+.rvmrc
+.DS_Store*
+.powder
+.powrc
+.sass-cache
+*.log
+output
+tmp
